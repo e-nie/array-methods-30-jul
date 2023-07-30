@@ -136,4 +136,10 @@ Array.prototype.myFind = function (searchCondFunc) {
     return undefined
 }
 
-console.log(students.myFind(el=> el.name === 'John'));
+// console.log(students.myFind(el=> el.name === 'John'));
+
+
+
+
+
+
